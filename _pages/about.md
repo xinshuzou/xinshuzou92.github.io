@@ -39,7 +39,7 @@ My current research interest including developing and evaluating anti-hydrate an
 
 **Xinshu Zou**, Guorui Zhou, Yi Wan
 
-[**Project**] (https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=C4_ELDsAAAAJ&sortby=pubdate&citation_for_view=C4_ELDsAAAAJ:4TOpqqG69KYC) &lt;strong&gt;<span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing. 
 
 </div>
