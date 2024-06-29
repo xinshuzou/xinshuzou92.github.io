@@ -10,7 +10,8 @@ Locale                   : "en-US"
 title                    : "Xinshu Zou/Personal Homepage"
 title_separator          : "_"
 namer                    : &name "Xinshu Zou"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Xinshu is a PhD at NTNU. "
+url                      : https://github.com/xinshuzou/xinshuzou92.github.io
 repository               : "xinshuzou/xinshuzou92.github.io"
 google_scholar_stats_use_cdn : true
 
