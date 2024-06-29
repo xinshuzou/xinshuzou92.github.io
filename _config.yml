@@ -11,7 +11,7 @@ title                    : "Xinshu Zou/Personal Homepage"
 title_separator          : "_"
 namer                    : &name "Xinshu Zou"
 description              : "Xinshu is a PhD at NTNU. "
-url                      : https://github.com/xinshuzou/xinshuzou92.github.io
+url                      : https://xinshuzou.github.io/xinshuzou92.github.io/
 repository               : "xinshuzou/xinshuzou92.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -31,7 +31,7 @@ author:
   location         : "Trondheim, Norway"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=C4_ELDsAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?user=C4_ELDsAAAAJ&hl=zh-CN"
   email            : "xinshu.zou@ntnu.no, xinshuzou@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/Xinshu-Zou"
   uri              :
