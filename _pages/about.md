@@ -21,6 +21,7 @@ Xinshu graduated with a Bachelor degree in Material Science and Engineering from
 
 My current research interest including developing and evaluating anti-hydrate and anti-icing surfaces with both deposition-supressing and super-low adhesion properties. I have published more than 20 co-authored papers at international journal.
 <a href='https://scholar.google.com/citations?user=C4_ELDsAAAAJ&hl=zh-CN'>google scholar.
+
 <a href='https://www.researchgate.net/profile/Xinshu-Zou/research'>researchgate.
 
 # 🔥 News
