@@ -27,7 +27,9 @@ My current research interest including developing and evaluating anti-hydrate an
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 take a midterm evulation.
-- *2022.02*: &nbsp;🎉🎉 ..... 
+- *2022.02*: &nbsp;🎉🎉 Moved to Trondheim.
+- *2018.09*![Weixin Screenshot_20240502160259](https://github.com/xinshuzou/xinshuzou92.github.io/assets/56545089/9e9227d7-1e82-44a9-93de-aca43bc6087b)
+
 
 # 📝 Publications 
 
