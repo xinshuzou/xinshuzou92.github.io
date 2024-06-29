@@ -20,7 +20,6 @@ redirect_from:
 Xinshu graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015, then took a joint Master program in Optical Engineering from the University of Science and Technology of China and the China Academy of Engineering Physics in the next 3 years. During 2018–2022, he worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, he moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology.
 
 My current research interest including developing and evaluating anti-hydrate and anti-icing surfaces with both deposition-supressing and super-low adhesion properties. I have published more than 20 co-authored papers at international journal with total <a href='https://scholar.google.com/citations?user=C4_ELDsAAAAJ&hl=zh-CN'>google scholar citations.
-[Email] (xinshu.zou@ntnu.no, xinshuzou@sjtu.edu.cn)/ [Wechat] (../image/wechat.jpg) [Researchgate]  (https://www.researchgate.net/profile/Xinshu-Zou?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
