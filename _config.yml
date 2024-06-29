@@ -6,9 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+Locale                   : "en-US"
+title                    : "Xinshu Zou/Personal Homepage"
+title_separator          : "_"
+namer                    : &name "Xinshu Zou"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "xinshuzou/xinshuzou92.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +24,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Xinshu Zou"
+  avatar           : "profile.png"
+  bio              : "NOrwegain University of Science and Technology"
+  location         : "Trondheim, Norway"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=C4_ELDsAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "xinshu.zou@ntnu.no, xinshuzou@sjtu.edu.cn"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/Xinshu-Zou"
   uri              :
   bitbucket        :
   codepen          :
