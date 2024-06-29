@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-![profile - 副本](https://github.com/xinshuzou/xinshuzou92.github.io/assets/56545089/477a133a-dc84-4c5a-bf33-412c8148242c)
+
 
 Xinshu graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015, then took a joint Master program in Optical Engineering from the University of Science and Technology of China and the China Academy of Engineering Physics in the next 3 years. During 2018–2022, he worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, he moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology.
 
@@ -79,3 +79,4 @@ Surfaces A, ACS AMI, Langmuir, Polymer, Journal of Bionic Engineering, The Secon
 - *2015-2018*     As a secretary of the Youth League Committee; As a monitor of our joint laboratory.
 - *2016.Oct*
 
+![profile - 副本](https://github.com/xinshuzou/xinshuzou92.github.io/assets/56545089/477a133a-dc84-4c5a-bf33-412c8148242c)
