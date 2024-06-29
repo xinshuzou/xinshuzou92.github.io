@@ -28,16 +28,15 @@ My current research interest including developing and evaluating anti-hydrate an
 
 # 📝 Publications 
 
-- [Highly Reversible and Stable Sulfur-Containing Cathodes for Magnesium Batteries with Two-Plateau Redox Reactions Enabled by Kinetically Favored Mg─S Decomposition] - <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials, 2024
+- [Highly Reversible and Stable Sulfur-Containing Cathodes for Magnesium Batteries with Two-Plateau Redox Reactions Enabled by Kinetically Favored Mg─S Decomposition] <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials, 2024
 
-- [Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing] Chemical Engineering Journal, 2023 (https://www.sciencedirect.com/science/article/pii/S1385894723039657)
+- [Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing] <a href='https://www.sciencedirect.com/science/article/pii/S1385894723039657'> Chemical Engineering Journal, 2023 
 
-- [Li+ assisted fast and stable Mg2+ reversible storage in cobalt sulfide cathodes for high performance magnesium/lithium hybrid-ion batteries]  Energy Storage Materials, 2022 (https://www.sciencedirect.com/science/article/pii/S2405829722000472)
+- [Li+ assisted fast and stable Mg2+ reversible storage in cobalt sulfide cathodes for high performance magnesium/lithium hybrid-ion batteries] <a href='https://www.sciencedirect.com/science/article/pii/S2405829722000472'> Energy Storage Materials, 2022
 
-- [High strength and plasticity in Cr-Al-C composite] Materials Science and Engineering: A, 2021, (https://www.sciencedirect.com/science/article/pii/S0921509322000922)
+- [High strength and plasticity in Cr-Al-C composite] <a href='https://www.sciencedirect.com/science/article/pii/S0921509322000922'> Materials Science and Engineering: A, 2021
   
-- [Influence of heating rate on formation of nanostructured tungsten carbides during thermo-chemical processing]  Advanced Powder Technology, 2021 (https://www.sciencedirect.com/science/article/pii/S0921883120305136)
-
+- [Influence of heating rate on formation of nanostructured tungsten carbides during thermo-chemical processing] <a href='https://www.sciencedirect.com/science/article/pii/S0921883120305136'> Advanced Powder Technology, 2021 
 
 # 🎖 Honors and Awards
 
