@@ -93,5 +93,3 @@ Surfaces A, ACS AMI, Langmuir, Polymer, Journal of Bionic Engineering, The Secon
 - *2016.Oct*, As one of the staffs of the 4th International Symposium on Laser Interaction with Matter.
 - *2013.Oct*, As a group leader in the “Fly Your Idea” competition of Airbus company.
 - *2011-2015*, As a class cadre of college class; As a leader of the Student Union
-
-![profile - 副本](https://github.com/xinshuzou/xinshuzou92.github.io/assets/56545089/477a133a-dc84-4c5a-bf33-412c8148242c)
