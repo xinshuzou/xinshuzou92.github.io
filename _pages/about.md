@@ -23,8 +23,8 @@ My current research interest including developing and evaluating anti-hydrate an
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 take a midterm evulation.
+- *2022.02*: &nbsp;🎉🎉 ..... 
 
 # 📝 Publications 
 
