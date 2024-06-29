@@ -25,7 +25,8 @@ My current research interest including developing and evaluating anti-hydrate an
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 take a midterm evulation.
+- *2024.07*: &nbsp;🎉🎉 Almost finish the second manuscript.
+- *2024.05*:&nbsp;🎉🎉 Finished the first manuscript.
 - *2022.02*: &nbsp;🎉🎉 Moved to Trondheim.
 - *2018.09*: &nbsp;🎉🎉 .....
 - 
@@ -33,15 +34,19 @@ My current research interest including developing and evaluating anti-hydrate an
 
 # 📝 Publications 
 
-- [Highly Reversible and Stable Sulfur-Containing Cathodes for Magnesium Batteries with Two-Plateau Redox Reactions Enabled by Kinetically Favored Mg─S Decomposition] <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials, 2024
+- Highly Reversible and Stable Sulfur-Containing Cathodes for Magnesium Batteries with Two-Plateau Redox Reactions Enabled by Kinetically Favored Mg─S Decomposition <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials, 2024
 
-- [Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing] <a href='https://www.sciencedirect.com/science/article/pii/S1385894723039657'> Chemical Engineering Journal, 2023 
+- Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing <a href='https://www.sciencedirect.com/science/article/pii/S1385894723039657'> Chemical Engineering Journal, 2023 
 
-- [Li+ assisted fast and stable Mg2+ reversible storage in cobalt sulfide cathodes for high performance magnesium/lithium hybrid-ion batteries] <a href='https://www.sciencedirect.com/science/article/pii/S2405829722000472'> Energy Storage Materials, 2022
+- Li+ assisted fast and stable Mg2+ reversible storage in cobalt sulfide cathodes for high performance magnesium/lithium hybrid-ion batteries <a href='https://www.sciencedirect.com/science/article/pii/S2405829722000472'> Energy Storage Materials, 2022
 
-- [High strength and plasticity in Cr-Al-C composite] <a href='https://www.sciencedirect.com/science/article/pii/S0921509322000922'> Materials Science and Engineering: A, 2021
+- High strength and plasticity in Cr-Al-C composite <a href='https://www.sciencedirect.com/science/article/pii/S0921509322000922'> Materials Science and Engineering: A, 2021
   
-- [Influence of heating rate on formation of nanostructured tungsten carbides during thermo-chemical processing] <a href='https://www.sciencedirect.com/science/article/pii/S0921883120305136'> Advanced Powder Technology, 2021 
+- Influence of heating rate on formation of nanostructured tungsten carbides during thermo-chemical processing <a href='https://www.sciencedirect.com/science/article/pii/S0921883120305136'> Advanced Powder Technology, 2021
+- Photomechanical effect leading to extraordinary ductility in covalent semiconductors <a href='https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.094110'> Physical Review B, 2019
+- A hydrophobic ultralow refractive-index silica coating towards double-layer broadband antireflective coating with exceptionally high vacuum stability and laser-induced damage threshold <a href='https://www.sciencedirect.com/science/article/abs/pii/S0927775718310422'> Colloids and Surfaces A: Physicochemical and Engineering Aspects, 2019
+- Fabrication of robust, self-cleaning, broadband TiO2single bondSiO2 double-layer antireflective coatings with closed-pore structure through a surface sol-gel process <a href='https://www.sciencedirect.com/science/article/abs/pii/S0925838818308594'> Journal of alloys and compounds 2018
+
 
 # 🎖 Honors and Awards
 
