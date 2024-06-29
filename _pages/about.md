@@ -28,15 +28,9 @@ My current research interest including developing and evaluating anti-hydrate an
 
 # 📝 Publications 
 
-**Xinshu Zou**, Guorui Zhou, Yi Wan
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing. 
 
-</div>
-</div>
-
-- [Highly Reversible and Stable Sulfur-Containing Cathodes for Magnesium Batteries with Two-Plateau Redox Reactions Enabled by Kinetically Favored Mg─S Decomposition] (https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154), Advanced Energy Materials, 2024
+- [Highly Reversible and Stable Sulfur-Containing Cathodes for Magnesium Batteries with Two-Plateau Redox Reactions Enabled by Kinetically Favored Mg─S Decomposition] , Advanced Energy Materials, 2024, (https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154)
 - [Li+ assisted fast and stable Mg2+ reversible storage in cobalt sulfide cathodes for high performance magnesium/lithium hybrid-ion batteries] (https://www.sciencedirect.com/science/article/pii/S2405829722000472), Energy Storage Materials, 2022
 - [Influence of heating rate on formation of nanostructured tungsten carbides during thermo-chemical processing] (https://www.sciencedirect.com/science/article/pii/S0921883120305136), Advanced Powder Technology, 2021
 
