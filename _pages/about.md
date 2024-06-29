@@ -28,7 +28,7 @@ My current research interest including developing and evaluating anti-hydrate an
 
 # 📝 Publications 
 
-- [Highly Reversible and Stable Sulfur-Containing Cathodes for Magnesium Batteries with Two-Plateau Redox Reactions Enabled by Kinetically Favored Mg─S Decomposition], Advanced Energy Materials, 2024 (https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154)
+- [Highly Reversible and Stable Sulfur-Containing Cathodes for Magnesium Batteries with Two-Plateau Redox Reactions Enabled by Kinetically Favored Mg─S Decomposition] <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials, 2024
 
 - [Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing] Chemical Engineering Journal, 2023 (https://www.sciencedirect.com/science/article/pii/S1385894723039657)
 
