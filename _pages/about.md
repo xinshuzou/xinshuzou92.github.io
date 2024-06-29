@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-
+![profile - 副本](https://github.com/xinshuzou/xinshuzou92.github.io/assets/56545089/96922d0f-4e0b-4128-a9b3-dfb4d22c5cea)
 
 Xinshu graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015, then took a joint Master program in Optical Engineering from the University of Science and Technology of China and the China Academy of Engineering Physics in the next 3 years. During 2018–2022, he worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, he moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology.
 
 My current research interest including developing and evaluating anti-hydrate and anti-icing surfaces with both deposition-supressing and super-low adhesion properties. I have published more than 20 co-authored papers at international journal.
 
 
+
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 take a midterm evulation.
 - *2022.02*: &nbsp;🎉🎉 Moved to Trondheim.
-- *2018.09*: &nbsp;🎉🎉 Moved to Shanghai.
+- *2018.09*: &nbsp;🎉🎉 .....
+- 
 
 
 # 📝 Publications 
