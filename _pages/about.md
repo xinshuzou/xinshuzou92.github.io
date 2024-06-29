@@ -25,10 +25,10 @@ My current research interest including developing and evaluating anti-hydrate an
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Almost finish the second manuscript.
-- *2024.05*:&nbsp;🎉🎉 Finished the first manuscript.
+- *2024.07*: &nbsp;🎉🎉 ...
+- *2024.05*:&nbsp;🎉🎉  ...
 - *2022.02*: &nbsp;🎉🎉 Moved to Trondheim.
-- *2018.09*: &nbsp;🎉🎉 .....
+- *2018.09*: &nbsp;🎉🎉 Moved to Shanghai.
 - 
 
 
