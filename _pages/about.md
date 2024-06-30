@@ -92,8 +92,9 @@ My current research interest including developing and evaluating anti-hydrate an
 
 # 💻 Others  
 
-- *2018-current*, Invited as a reviewer or co-reviewer of the journal such as Chemical Engineering Jouranl, Science Advance, 
-                  Nature Communication, Nature Review Materials,Colloid and Surfaces A, ACS AMI, Langmuir, Polymer.
+- *2018-current*, Invited as a reviewer or co-reviewer of international journal such as Chemical Engineering Journal, 
+                  Science Advance, Nature Communication, Nature Review Materials,Colloid and Surfaces A, ACS AMI, Langmuir, 
+                  Polymer...
 - *2015-2018*,    As a secretary of the student union; As a monitor of our joint laboratory.
 - *2016.Oct*,     As one of the staffs of the 4th International Symposium on Laser Interaction with Matter.
 - *2013.Oct*,     As a group leader in the “Fly Your Idea” competition of Airbus company.
