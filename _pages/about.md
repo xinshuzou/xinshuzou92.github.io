@@ -33,24 +33,24 @@ My current research interest including developing and evaluating anti-hydrate an
 
 # 📝 Publications 
 
-- Highly reversible and stable sulfur-containing cathodes for magnesium batteries with two-plateau redox reactions enabled by kinetically favored Mg─S decomposition <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials, 2024
-- Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing <a href='https://www.sciencedirect.com/science/article/pii/S1385894723039657'> Chemical Engineering Journal, 2023 
-- Li+ assisted fast and stable Mg2+ reversible storage in cobalt sulfide cathodes for high performance magnesium/lithium hybrid-ion batteries <a href='https://www.sciencedirect.com/science/article/pii/S2405829722000472'> Energy Storage Materials, 2022
-- High strength and plasticity in Cr-Al-C composite <a href='https://www.sciencedirect.com/science/article/pii/S0921509322000922'> Materials Science and Engineering: A, 2021
+- Highly reversible and stable sulfur-containing cathodes for magnesium batteries with two-plateau redox reactions enabled by kinetically favored Mg─S decomposition <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials 2024
+- Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing <a href='https://www.sciencedirect.com/science/article/pii/S1385894723039657'> Chemical Engineering Journal 2023 
+- Li+ assisted fast and stable Mg2+ reversible storage in cobalt sulfide cathodes for high performance magnesium/lithium hybrid-ion batteries <a href='https://www.sciencedirect.com/science/article/pii/S2405829722000472'> Energy Storage Materials 2022
+- High strength and plasticity in Cr-Al-C composite <a href='https://www.sciencedirect.com/science/article/pii/S0921509322000922'> Materials Science and Engineering: A 2021
 - A simple approach to synthesis Cr2CTx MXene for efficient hydrogen evolution reaction <a href='https://www.sciencedirect.com/science/article/pii/S2468606921000332'>  Materials Today Energy 2021
 - Structure and mechanical properties of nanostructured Rhombohedral Cr5Al8 <a href='https://www.sciencedirect.com/science/article/pii/S1044580320323330'> Materials Characterization 2021
-- Influence of heating rate on formation of nanostructured tungsten carbides during thermo-chemical processing <a href='https://www.sciencedirect.com/science/article/pii/S0921883120305136'> Advanced Powder Technology, 2021
-- Photomechanical effect leading to extraordinary ductility in covalent semiconductors <a href='https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.094110'> Physical Review B, 2019
-- A hydrophobic ultralow refractive-index silica coating towards double-layer broadband antireflective coating with exceptionally high vacuum stability and laser-induced damage threshold <a href='https://www.sciencedirect.com/science/article/abs/pii/S0927775718310422'> Colloids and Surfaces A: Physicochemical and Engineering Aspects, 2019
+- Influence of heating rate on formation of nanostructured tungsten carbides during thermo-chemical processing <a href='https://www.sciencedirect.com/science/article/pii/S0921883120305136'> Advanced Powder Technology 2021
+- Photomechanical effect leading to extraordinary ductility in covalent semiconductors <a href='https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.094110'> Physical Review B 2019
+- A hydrophobic ultralow refractive-index silica coating towards double-layer broadband antireflective coating with exceptionally high vacuum stability and laser-induced damage threshold <a href='https://www.sciencedirect.com/science/article/abs/pii/S0927775718310422'> Colloids and Surfaces A: Physicochemical and Engineering Aspects 2019
 - Fabrication of robust, self-cleaning, broadband TiO2single bondSiO2 double-layer antireflective coatings with closed-pore structure through a surface sol-gel process <a href='https://www.sciencedirect.com/science/article/abs/pii/S0925838818308594'> Journal of alloys and compounds 2018
-- Rational design and fabrication of highly transparent, flexible, and thermally stable superhydrophobic coatings from raspberry-like hollow silica nanoparticles <a href='https://www.sciencedirect.com/science/article/abs/pii/S0169433218301703'> Applied Surface Science, 2018
-- One-step sol-gel preparation of ultralow-refractive-index porous coatings with mulberry-like hollow silica nanostructures  <a href='https://www.sciencedirect.com/science/article/abs/pii/S0257897218300136'> Surface and Coatings Technology, 2018
-- Double-layer tri-wavelength hydrophobic antireflective coatings derived from methylated silica nanoparticles and hybrid silica nanoparticles <a href='https://link.springer.com/article/10.1007/s10971-018-4642-x'> Journal of Sol-Gel Science and Technology, 2018
-- Ultralow-refractive-index optical thin films built from shape-tunable hollow silica nanomaterials <a href='https://opg.optica.org/ol/abstract.cfm?uri=ol-43-8-1802'> Optics Letters, 2018
+- Rational design and fabrication of highly transparent, flexible, and thermally stable superhydrophobic coatings from raspberry-like hollow silica nanoparticles <a href='https://www.sciencedirect.com/science/article/abs/pii/S0169433218301703'> Applied Surface Science 2018
+- One-step sol-gel preparation of ultralow-refractive-index porous coatings with mulberry-like hollow silica nanostructures  <a href='https://www.sciencedirect.com/science/article/abs/pii/S0257897218300136'> Surface and Coatings Technology 2018
+- Double-layer tri-wavelength hydrophobic antireflective coatings derived from methylated silica nanoparticles and hybrid silica nanoparticles <a href='https://link.springer.com/article/10.1007/s10971-018-4642-x'> Journal of Sol-Gel Science and Technology 2018
+- Ultralow-refractive-index optical thin films built from shape-tunable hollow silica nanomaterials <a href='https://opg.optica.org/ol/abstract.cfm?uri=ol-43-8-1802'> Optics Letters 2018
 - Three-dimensional TiO2/SiO2 composite aerogel films via atomic layer deposition with enhanced H2S gas sensing performance <a href='https://www.sciencedirect.com/science/article/abs/pii/S0272884217322459'> Ceramics International 2018
-- Micro/Nanofiber with Hollow Silica Nanoparticles Thin-Film for Airborne Molecular Contaminants Real-Time Sensing <a href='https://onlinelibrary.wiley.com/doi/full/10.1155/2018/4950787'> Advances in Condensed Matter Physics, 2018
+- Micro/Nanofiber with Hollow Silica Nanoparticles Thin-Film for Airborne Molecular Contaminants Real-Time Sensing <a href='https://onlinelibrary.wiley.com/doi/full/10.1155/2018/4950787'> Advances in Condensed Matter Physics 2018
 - Surface molecular structure defects and laser-induced damage threshold of fused silica during a manufacturing process <a href='https://www.nature.com/articles/s41598-017-18249-2'> Scientific Reports 2017
-- Improvement of laser damage thresholds of fused silica by ultrasonic-assisted hydrofluoric acid etching <a href='https://iopscience.iop.org/article/10.1088/1674-1056/26/11/118104/meta'> Chinese Physics B, 2017
+- Improvement of laser damage thresholds of fused silica by ultrasonic-assisted hydrofluoric acid etching <a href='https://iopscience.iop.org/article/10.1088/1674-1056/26/11/118104/meta'> Chinese Physics B 2017
 
 # 🎖 Skills
 
