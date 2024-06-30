@@ -54,6 +54,11 @@ My current research interest including developing and evaluating anti-hydrate an
 - Surface molecular structure defects and laser-induced damage threshold of fused silica during a manufacturing process <a href='https://www.nature.com/articles/s41598-017-18249-2'> Scientific Reports 2017
 - Improvement of laser damage thresholds of fused silica by ultrasonic-assisted hydrofluoric acid etching <a href='https://iopscience.iop.org/article/10.1088/1674-1056/26/11/118104/meta'> Chinese Physics B, 2017
 
+# 🎖 Skills
+
+
+I am familiar with the operation of equipment that was used to characterize structure and properties in my daily research work such as STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, FIB and I am good at analysing TEM, STEM, SEM images of nanomaterials and bridging understanding of properties of nanomaterials with their nanostructure at the atomic level. 
+
 
 # 🎖 Honors and Awards
 
@@ -99,5 +104,6 @@ My current research interest including developing and evaluating anti-hydrate an
 - *2016.Oct*,     As one of the staffs of the 4th International Symposium on Laser Interaction with Matter.
 - *2013.Oct*,     As a group leader in the “Fly Your Idea” competition of Airbus company.
 - *2011-2015*,    As a member of student union;
-# ![hobby-caravan-logo-vector1](https://github.com/xinshuzou/xinshuzou92.github.io/assets/56545089/690d9d88-1ce8-4723-aa57-14393816d738)
+# 💻 Hobby
+
 
