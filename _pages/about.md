@@ -34,13 +34,11 @@ My current research interest including developing and evaluating anti-hydrate an
 # 📝 Publications 
 
 - Highly reversible and stable sulfur-containing cathodes for magnesium batteries with two-plateau redox reactions enabled by kinetically favored Mg─S decomposition <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials, 2024
-
 - Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing <a href='https://www.sciencedirect.com/science/article/pii/S1385894723039657'> Chemical Engineering Journal, 2023 
-
 - Li+ assisted fast and stable Mg2+ reversible storage in cobalt sulfide cathodes for high performance magnesium/lithium hybrid-ion batteries <a href='https://www.sciencedirect.com/science/article/pii/S2405829722000472'> Energy Storage Materials, 2022
-
 - High strength and plasticity in Cr-Al-C composite <a href='https://www.sciencedirect.com/science/article/pii/S0921509322000922'> Materials Science and Engineering: A, 2021
-  
+- A simple approach to synthesis Cr2CTx MXene for efficient hydrogen evolution reaction <a href='https://www.sciencedirect.com/science/article/pii/S2468606921000332'>  Materials Today Energy 2021
+- Structure and mechanical properties of nanostructured Rhombohedral Cr5Al8 <a href='https://www.sciencedirect.com/science/article/pii/S1044580320323330'> Materials Characterization 2021
 - Influence of heating rate on formation of nanostructured tungsten carbides during thermo-chemical processing <a href='https://www.sciencedirect.com/science/article/pii/S0921883120305136'> Advanced Powder Technology, 2021
 - Photomechanical effect leading to extraordinary ductility in covalent semiconductors <a href='https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.094110'> Physical Review B, 2019
 - A hydrophobic ultralow refractive-index silica coating towards double-layer broadband antireflective coating with exceptionally high vacuum stability and laser-induced damage threshold <a href='https://www.sciencedirect.com/science/article/abs/pii/S0927775718310422'> Colloids and Surfaces A: Physicochemical and Engineering Aspects, 2019
@@ -55,7 +53,6 @@ My current research interest including developing and evaluating anti-hydrate an
 - Improvement of laser damage thresholds of fused silica by ultrasonic-assisted hydrofluoric acid etching <a href='https://iopscience.iop.org/article/10.1088/1674-1056/26/11/118104/meta'> Chinese Physics B, 2017
 
 # 🎖 Skills
-
 
 I am familiar with the operation of equipment that was used to characterize structure and properties in my daily research work such as STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, FIB and I am good at analysing TEM, STEM, SEM images of nanomaterials and bridging understanding of properties of nanomaterials with their nanostructure at the atomic level. 
 
