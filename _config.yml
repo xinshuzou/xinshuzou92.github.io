@@ -10,7 +10,7 @@ Locale                   : "en-US"
 title                    : "Xinshu Zou/Personal Academical Homepage"
 title_separator          : "_"
 namer                    :     &name "Xinshu Zou"
-description              : "PhD Researcher  Nanomechanical Lab "
+description              : "PhD Researcher <a href='https://www.ntnu.edu/nml/ntnu-nanomechanical-lab'> Nanomechanical Lab "
 url                      : https://xinshuzou.github.io/xinshuzou92.github.io/
 repository               : "xinshuzou/xinshuzou92.github.io"
 google_scholar_stats_use_cdn : true
