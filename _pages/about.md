@@ -75,8 +75,8 @@ My current research interest including developing and evaluating anti-hydrate an
                      Science and Technology. 
 - *2018.09~2022.12*, Doctor of Materials Science and Engineering, School of Materials Science and Engineering of Shanghai 
                      Jiao Tong University. 
-- *2015.09~2018.06*, Master degree in Optical Engineering, Joint educational program with University of Science and 
-                     Technology of China and China Academy of Engineering Physics.
+- *2015.09~2018.06*, Master degree in Optical Engineering, Joint educational program with China Academy of Engineering Physics and University of Science and 
+                     Technology of China .
 - *2011.09~2015.06*, Bachelor Degree in Materials Science and Engineering, Nanjing University of Aeronautics and 
                      Astronautics.
 
