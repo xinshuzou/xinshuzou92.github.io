@@ -55,7 +55,7 @@ My current research interest including developing and evaluating anti-hydrate an
 
 # 🎖 Honors and Awards
 
-- *2018*  PhD Scholarship (NUS, UBC, Monash, KULeuven); 1st-class of Scholarship; Special Postgraduate Scholarship; 
+- *2018*  PhD Scholarship (NUS, UBC, Monash, KU-Leuven...); 1st-class of Scholarship; Special Postgraduate Scholarship; 
           Outstanding Graduates 
           in Beijing; Outstanding Graduates; Excellent Poster Report of the 5th Academic Conferences;
  - *2017* 2nd-class of Scholarship; Excellent Post-Graduate Student; Excellent League Cadre; Excellent Oral Report of the 
