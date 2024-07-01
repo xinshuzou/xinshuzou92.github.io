@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015; then took a joint Master program in Optical Engineering from  China and the China Academy of Engineering Physics and the University of Science and Technology in the next 3 years. During 2018–2022, I worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, I moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology <a href='https://www.ntnu.edu/nml/ntnu-nanomechanical-lab'> Nanomechanical Lab.
+I graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015; then took a joint Master program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China in the next 3 years. During 2018–2022, I worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, I moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology <a href='https://www.ntnu.edu/nml/ntnu-nanomechanical-lab'> Nanomechanical Lab.
 
 I am familiar with the operation of equipment that was used to characterize structure and properties in my daily research work such as STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, FIB and I am good at analysing TEM, STEM, SEM images of nanomaterials and bridging understanding of properties of nanomaterials with their nanostructure at the atomic level. 
 
