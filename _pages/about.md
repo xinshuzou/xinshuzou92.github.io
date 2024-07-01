@@ -18,10 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Xinshu graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015, then took a joint Master program in Optical Engineering from the University of Science and Technology of China and the China Academy of Engineering Physics in the next 3 years. During 2018–2022, he worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, he moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology.
+Xinshu graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015; then took a joint Master program in Optical Engineering from  China and the China Academy of Engineering Physics and the University of Science and Technology in the next 3 years. During 2018–2022, he worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, he moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology.
 
-My current research interest including developing and evaluating anti-hydrate and anti-icing surfaces with both deposition-supressing and super-low adhesion properties. I have published more than 16 co-authored papers at international journal.
+Xinshu is familiar with the operation of equipment that was used to characterize structure and properties in my daily research work such as STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, FIB and I am good at analysing TEM, STEM, SEM images of nanomaterials and bridging understanding of properties of nanomaterials with their nanostructure at the atomic level. 
 
+His current research interest including developing and evaluating anti-hydrate and anti-icing surfaces with both deposition-supressing and super-low adhesion properties. I have published more than 16 co-authored papers at international journal.
 
 
 # 🔥 News
@@ -51,11 +52,6 @@ My current research interest including developing and evaluating anti-hydrate an
 - Micro/Nanofiber with Hollow Silica Nanoparticles Thin-Film for Airborne Molecular Contaminants Real-Time Sensing <a href='https://onlinelibrary.wiley.com/doi/full/10.1155/2018/4950787'> Advances in Condensed Matter Physics 2018
 - Surface molecular structure defects and laser-induced damage threshold of fused silica during a manufacturing process <a href='https://www.nature.com/articles/s41598-017-18249-2'> Scientific Reports 2017
 - Improvement of laser damage thresholds of fused silica by ultrasonic-assisted hydrofluoric acid etching <a href='https://iopscience.iop.org/article/10.1088/1674-1056/26/11/118104/meta'> Chinese Physics B 2017
-
-# 🎖 Skills
-
-I am familiar with the operation of equipment that was used to characterize structure and properties in my daily research work such as STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, FIB and I am good at analysing TEM, STEM, SEM images of nanomaterials and bridging understanding of properties of nanomaterials with their nanostructure at the atomic level. 
-
 
 # 🎖 Honors and Awards
 
@@ -101,6 +97,3 @@ I am familiar with the operation of equipment that was used to characterize stru
 - *2016.Oct*,     As one of the staffs of the 4th International Symposium on Laser Interaction with Matter.
 - *2013.Oct*,     As a group leader in the “Fly Your Idea” competition of Airbus company.
 - *2011-2015*,    As a member of student union;
-# 💻 Hobby
-
-
