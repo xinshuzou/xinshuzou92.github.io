@@ -53,7 +53,7 @@ My current research interest including developing and evaluating anti-hydrate an
 - Surface molecular structure defects and laser-induced damage threshold of fused silica during a manufacturing process <a href='https://www.nature.com/articles/s41598-017-18249-2'> Scientific Reports 2017
 - Improvement of laser damage thresholds of fused silica by ultrasonic-assisted hydrofluoric acid etching <a href='https://iopscience.iop.org/article/10.1088/1674-1056/26/11/118104/meta'> Chinese Physics B 2017
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Scholarships
 
 - *2018*  PhD Scholarship (NUS, UBC, Monash, KU-Leuven...); 1st-class of Scholarship; Special Postgraduate Scholarship; 
           Outstanding Graduates 
