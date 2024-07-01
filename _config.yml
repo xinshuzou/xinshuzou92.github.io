@@ -7,10 +7,10 @@
 
 # Site Settings
 Locale                   : "en-US"
-title                    : "Xinshu Zou/Personal Homepage"
+title                    : "Xinshu Zou/Personal Academical Homepage"
 title_separator          : "_"
 namer                    :     &name "Xinshu Zou"
-description              : "PhD Researcher"
+description              : "PhD Researcher  Nanomechanical Lab "
 url                      : https://xinshuzou.github.io/xinshuzou92.github.io/
 repository               : "xinshuzou/xinshuzou92.github.io"
 google_scholar_stats_use_cdn : true
