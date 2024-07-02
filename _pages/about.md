@@ -30,7 +30,7 @@ My current research interest including developing and evaluating anti-hydrate an
 - *2022.02*: &nbsp;🎉🎉 Moved to Trondheim.
 - *2021.12*: &nbsp;🎉🎉 Offered a position in HUAWEI.
 - *2018.09*: &nbsp;🎉🎉 Moved to Shanghai.
-- *2018.06*: &nbsp;🎉🎉 Offered a PhD position by several top-50 univeristies.
+- *2018.06*: &nbsp;🎉🎉 Offered a PhD position by several top-50 universities.
 
 
 # 📝 Publications and Patents
@@ -55,7 +55,7 @@ My current research interest including developing and evaluating anti-hydrate an
 - Improvement of laser damage thresholds of fused silica by ultrasonic-assisted hydrofluoric acid etching <a href='https://iopscience.iop.org/article/10.1088/1674-1056/26/11/118104/meta'> Chinese Physics B 2017
 - A preparation method of SiO2 antireflective coating with adjustable refractive index (CN108761581B).
 - A preparation method of an ultra-low refractive index SiO2 antireflective coating (CN109665720A);
-- A preparation method of a double-layer composite SiO2 antireflectie coating (CN108623185A).
+- A preparation method of a double-layer broadband SiO2 antireflective coating (CN108623185A).
 
 # 🎖 Honors and Scholarships
 
