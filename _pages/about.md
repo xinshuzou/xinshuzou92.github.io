@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015; then took a joint Master program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China in the next 3 years. During 2018–2022, I worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, I moved to work as a PhD researcher in  <a href='https://www.ntnu.no/ansatte/xinshu.zou'> the Department of Structural Engineering at the Norwegian University of Science and Technology.
+I graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015; then took a joint Master program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China in the next 3 years. During 2018–2022, I worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, I moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology.
 
 I am familiar with the operation of equipment that was used to characterize structure and properties in my daily research work such as STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, FIB and I am good at analysing TEM, STEM, SEM images of nanomaterials and bridging understanding of properties of nanomaterials with their nanostructure at the atomic level. 
 
@@ -28,11 +28,12 @@ My current research interest including developing and evaluating anti-hydrate an
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 ...
 - *2022.02*: &nbsp;🎉🎉 Moved to Trondheim.
+- *2021.12*: &nbsp;🎉🎉 Offered a position in HUAWEI.
 - *2018.09*: &nbsp;🎉🎉 Moved to Shanghai.
-- 
+- *2018.06*: &nbsp;🎉🎉 Offered a PhD position by several top-50 univeristies.
 
 
-# 📝 Publications 
+# 📝 Publications and Patents
 
 - Highly reversible and stable sulfur-containing cathodes for magnesium batteries with two-plateau redox reactions enabled by kinetically favored Mg─S decomposition <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials 2024
 - Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing <a href='https://www.sciencedirect.com/science/article/pii/S1385894723039657'> Chemical Engineering Journal 2023 
@@ -52,6 +53,9 @@ My current research interest including developing and evaluating anti-hydrate an
 - Micro/Nanofiber with Hollow Silica Nanoparticles Thin-Film for Airborne Molecular Contaminants Real-Time Sensing <a href='https://onlinelibrary.wiley.com/doi/full/10.1155/2018/4950787'> Advances in Condensed Matter Physics 2018
 - Surface molecular structure defects and laser-induced damage threshold of fused silica during a manufacturing process <a href='https://www.nature.com/articles/s41598-017-18249-2'> Scientific Reports 2017
 - Improvement of laser damage thresholds of fused silica by ultrasonic-assisted hydrofluoric acid etching <a href='https://iopscience.iop.org/article/10.1088/1674-1056/26/11/118104/meta'> Chinese Physics B 2017
+- A preparation method of SiO2 antireflective coating with adjustable refractive index (CN108761581B).
+- A preparation method of an ultra-low refractive index SiO2 antireflective coating (CN109665720A);
+- A preparation method of a double-layer composite SiO2 antireflectie coating (CN108623185A).
 
 # 🎖 Honors and Scholarships
 
@@ -72,9 +76,9 @@ My current research interest including developing and evaluating anti-hydrate an
 
 
 - *2022.02~Current*, Doctor of Structural Engineering, Department of Structural Engineering of Norwegain University of 
-                     Science and Technology. Chromium Based MAX and MXenes for Structural amd Functional Applications.
+                     Science and Technology. Anti-hydrate and Anti-ice Surfaces.
 - *2018.09~2022.12*, Doctor of Materials Science and Engineering, School of Materials Science and Engineering of Shanghai 
-                     Jiao Tong University. Anti-hydrate and Anti-ice Surfaces.
+                     Jiao Tong University. Chromium Based MAX and MXenes for Structural amd Functional Applications.
 - *2015.09~2018.06*, Master degree in Optical Engineering, Joint educational program in China Academy of Engineering Physics and University of Science and 
                      Technology of China. Structural Control and Properties of Multifunctional Coatings.
 - *2011.09~2015.06*, Bachelor Degree in Materials Science and Engineering, Nanjing University of Aeronautics and 
@@ -93,10 +97,9 @@ My current research interest including developing and evaluating anti-hydrate an
 
 # 💻 Others  
 
-- *2018-current*, Invited as a reviewer or co-reviewer of international journal such as Chemical Engineering Journal, 
-                  Science Advance, Nature Communication, Nature Review Materials,Colloid and Surfaces A, ACS AMI, Langmuir, 
-                  Polymer...
-- *2015-2018*,    As a secretary of the student union; As a monitor of our joint laboratory.
-- *2016.Oct*,     As one of the staffs of the 4th International Symposium on Laser Interaction with Matter.
-- *2013.Oct*,     As a group leader in the “Fly Your Idea” competition of Airbus company.
-- *2011-2015*,    As a member of student union;
+- *2018-current*, Invited as a reviewer or co-reviewer of international journal such as Chemical Engineering Journal,Science Advance, Nature Communication, Nature Review Materials,Colloid and Surfaces A, ACS AMI, Langmuir,Polymer...
+- *2018.06-2018.08* Guangdong OPPO Mobile Communication Co. 2018 Dreamer Internship (Full-time).
+- *2016.07-2018.06*, As a secretary of the student union; As a monitor of our joint laboratory.   
+- *2016.Oct*, As one of the staffs of the 4th International Symposium on Laser Interaction with Matter.
+- *2013.Oct*, As a group leader in the “Fly Your Idea” competition of Airbus company.
+- *2011-2015*, As a member of student union;
