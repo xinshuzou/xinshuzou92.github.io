@@ -49,7 +49,7 @@ My current research interest including developing and evaluating anti-hydrate an
 - Double-layer tri-wavelength hydrophobic antireflective coatings derived from methylated silica nanoparticles and hybrid silica nanoparticles <a href='https://link.springer.com/article/10.1007/s10971-018-4642-x'> Journal of Sol-Gel Science and Technology 2018
 - Ultralow-refractive-index optical thin films built from shape-tunable hollow silica nanomaterials <a href='https://opg.optica.org/ol/abstract.cfm?uri=ol-43-8-1802'> Optics Letters 2018
 - Three-dimensional TiO2/SiO2 composite aerogel films via atomic layer deposition with enhanced H2S gas sensing performance <a href='https://www.sciencedirect.com/science/article/abs/pii/S0272884217322459'> Ceramics International 2018
-- Micro/Nanofiber with Hollow Silica Nanoparticles Thin-Film for Airborne Molecular Contaminants Real-Time Sensing <a href='https://onlinelibrary.wiley.com/doi/full/10.1155/2018/4950787'> Advances in Condensed Matter Physics 2018
+- Micro/Nanofiber with hollow silica nanoparticles thin-film for airborne molecular contaminants real-time sensing <a href='https://onlinelibrary.wiley.com/doi/full/10.1155/2018/4950787'> Advances in Condensed Matter Physics 2018
 - Surface molecular structure defects and laser-induced damage threshold of fused silica during a manufacturing process <a href='https://www.nature.com/articles/s41598-017-18249-2'> Scientific Reports 2017
 - Improvement of laser damage thresholds of fused silica by ultrasonic-assisted hydrofluoric acid etching <a href='https://iopscience.iop.org/article/10.1088/1674-1056/26/11/118104/meta'> Chinese Physics B 2017
 - A preparation method of SiO2 antireflective coating with adjustable refractive index (CN108761581B).
