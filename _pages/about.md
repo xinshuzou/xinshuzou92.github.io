@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015; then took a joint Master program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China in the next 3 years. During 2018–2022, I worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, I moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology <a href='https://www.ntnu.edu/nml/ntnu-nanomechanical-lab'> Nanomechanical Lab.
+I graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015; then took a joint Master program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China in the next 3 years. During 2018–2022, I worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, I moved to work as a PhD researcher in  <a href='https://www.ntnu.no/ansatte/xinshu.zou'> the Department of Structural Engineering at the Norwegian University of Science and Technology.
 
 I am familiar with the operation of equipment that was used to characterize structure and properties in my daily research work such as STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, FIB and I am good at analysing TEM, STEM, SEM images of nanomaterials and bridging understanding of properties of nanomaterials with their nanostructure at the atomic level. 
 
@@ -72,18 +72,20 @@ My current research interest including developing and evaluating anti-hydrate an
 
 
 - *2022.02~Current*, Doctor of Structural Engineering, Department of Structural Engineering of Norwegain University of 
-                     Science and Technology. 
+                     Science and Technology. Chromium Based MAX and MXenes for Structural amd Functional Applications.
 - *2018.09~2022.12*, Doctor of Materials Science and Engineering, School of Materials Science and Engineering of Shanghai 
-                     Jiao Tong University. 
+                     Jiao Tong University. Anti-hydrate and Anti-ice Surfaces.
 - *2015.09~2018.06*, Master degree in Optical Engineering, Joint educational program in China Academy of Engineering Physics and University of Science and 
-                     Technology of China .
+                     Technology of China. Structural Control and Properties of Multifunctional Coatings.
 - *2011.09~2015.06*, Bachelor Degree in Materials Science and Engineering, Nanjing University of Aeronautics and 
-                     Astronautics.
+                     Astronautics.Investigating Enhanced Particle Motion During Selective Laser Melting of Aluminum Matrix Composites.
 
 
 # 💬 Conference Presentations
 
-- *Nov 2020*, Seminar in Singapore, National University of Singapore (online). 
+- Nov 2023 The Norwegan NanoSymposium 2023, Norwegain University of Science and Technoloy,Trondheim.
+- May 2022 Nodic Nanolab Network seminar in Sweeden, Chalmers University of Technology, Gothenburg.
+- *Nov 2020*, Seminar in Singapore, National University of Singapore (online).
 - *Oct 2019*, Seminar at Harbin Institute of Technology, Shenzhen, China.
 - *Dec 2018*, Seminar at China Academy of Engineering Physics, Mianyang, China.
 - *Dec 2017*, The 4th Academic Conferences in China Academy of Engineering Physics, Mianyang, China.
