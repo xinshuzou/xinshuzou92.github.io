@@ -64,8 +64,8 @@ My current research interest including developing and evaluating anti-hydrate an
           4th Academic Conferences;
 - *2016*  3st-class of Scholarship; 3st-class of Essay Writing Competition
 - *2014*  Excellent Individual in Summer Camp of Huazhong University of Science and Technology; Excellent Individual in Summer    School of National University of Defense Technology; 
-- *2013*  University excellent student leader;
-- *2012*  University excellent student;                                                                        
+- *2013*  University Excellent Student Union Leader;
+- *2012*  University Excellent Student;                                                                        
 - *2011*  3rd-class of Excellent Student Scholarship;
 
 
