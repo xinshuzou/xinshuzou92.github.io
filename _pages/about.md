@@ -28,7 +28,6 @@ My current research interest including developing and evaluating anti-hydrate an
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 ...
 - *2022.02*: &nbsp;🎉🎉 Moved to Trondheim.
-- *2021.12*: &nbsp;🎉🎉 Offered a position in HUAWEI.
 - *2018.09*: &nbsp;🎉🎉 Moved to Shanghai.
 - *2018.06*: &nbsp;🎉🎉 Offered a PhD position by several top-50 universities.
 
