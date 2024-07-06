@@ -20,9 +20,9 @@ redirect_from:
 
 I graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015; then took a joint Master program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China in the next 3 years. During 2018–2022, I worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, I moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology.
 
-I am familiar with the operation of equipment that was used to characterize structure and properties in my daily research work such as STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, FIB and I am good at analysing TEM, STEM, SEM images of nanomaterials and bridging understanding of properties of nanomaterials with their nanostructure at the atomic level. 
+I am proficient in the operation of equipment utilized in the characterization of structures and properties in my research, including STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, FIB, and the analysis of TEM, STEM, and SEM images of nanomaterials. I am skilled in integrating the understanding of nanomaterials' properties with their nanostructure at the atomic level.
 
-My current research interest including developing and evaluating anti-hydrate and anti-icing surfaces with both deposition-supressing and super-low adhesion properties. I have published more than 16 co-authored papers at international journal.
+My current research interests include the development and evaluation of anti-hydrate and anti-icing surfaces with both deposition-suppressing and super-low adhesion properties. I have published more than 16 co-authored papers in international journals.
 
 
 # 🔥 News
