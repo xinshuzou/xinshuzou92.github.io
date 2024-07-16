@@ -31,7 +31,7 @@ My current research interests include the development and evaluation of anti-hyd
 - *2018.09*: &nbsp;🎉🎉 Moved to Shanghai.
 - *2018.06*: &nbsp;🎉🎉 Offered PhD positions by several top-50 universities.
 
-# 🐦 Research Experience
+# 🐦 Research Experiences
  
 - Surface Sciences, including Low Adhesion Surfaces for Water, Ice, and Hydrate;
 - Ceramics, such as High Strength MAX Ceramics;
