@@ -31,10 +31,14 @@ My current research interests include the development and evaluation of anti-hyd
 - *2018.09*: &nbsp;🎉🎉 Moved to Shanghai.
 - *2018.06*: &nbsp;🎉🎉 Offered PhD positions by several top-50 universities.
 
-# 🐦 Research Interest
+# 🐦 Research Experience
  
-
-
+- Surface Sciences, including Low Adhesion Surfaces for Water, Ice, and Hydrate;
+- Ceramics, such as High Strength MAX Ceramics;
+- Two Dimensional Materials, such as MXene for HER;
+- Sol-Gel Methods for Preparing Coatings;
+- Silica Antireflective Coatings;
+- 3D Printed Materials including Metal, Polymer and Ceramics;
 
 # 📝 Publications and Patents
 
@@ -81,8 +85,7 @@ My current research interests include the development and evaluation of anti-hyd
                      Science and Technology. Anti-hydrate and Anti-ice Surfaces.
 - *2018.09~2022.12*, Doctor of Materials Science and Engineering, School of Materials Science and Engineering of Shanghai 
                      Jiao Tong University. Chromium Based MAX and MXenes for Structural amd Functional Applications.
-- *2015.09~2018.06*, Master degree in Optical Engineering, Joint educational program in China Academy of Engineering Physics and University of Science and 
-                     Technology of China. Structural Control and Properties of Multifunctional Coatings.
+- *2015.09~2018.06*, Master degree in Optical Engineering, Joint educational program in China Academy of Engineering Physics and University of Science and Technology of China. Structural Control and Properties of Multifunctional Coatings.
 - *2011.09~2015.06*, Bachelor Degree in Materials Science and Engineering, Nanjing University of Aeronautics and 
                      Astronautics.Investigating Enhanced Particle Motion During Selective Laser Melting of Aluminum Matrix Composites.
 
