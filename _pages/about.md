@@ -65,7 +65,7 @@ My current research interests include the development and evaluation of anti-hyd
 
 # 🎖 Honors and Scholarships
 
-- *2018*  PhD Scholarship (NUS, UBC, Monash, KU-Leuven...); 1st-class of Scholarship; Special Postgraduate Scholarship; 
+- *2018*  PhD Scholarship (NUS, UBC, Monash, KU-Leuven, Edinburgh...); 1st-class of Scholarship; Special Postgraduate Scholarship; 
           Outstanding Graduates in Beijing; Outstanding Graduates; Best Poster Report of the 5th Academic Conferences;
  - *2017* 2nd-class of Scholarship; Excellent Post-Graduate Student; Excellent Student Union leader; Best Oral Report of the 
           4th Academic Conferences;
