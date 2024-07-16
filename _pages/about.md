@@ -31,6 +31,10 @@ My current research interests include the development and evaluation of anti-hyd
 - *2018.09*: &nbsp;🎉🎉 Moved to Shanghai.
 - *2018.06*: &nbsp;🎉🎉 Offered PhD positions by several top-50 universities.
 
+![image](https://github.com/user-attachments/assets/0ae7d47c-c979-4420-9a4a-f7acd5f16ddd)
+
+
+
 
 # 📝 Publications and Patents
 
