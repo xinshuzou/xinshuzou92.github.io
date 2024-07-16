@@ -31,9 +31,8 @@ My current research interests include the development and evaluation of anti-hyd
 - *2018.09*: &nbsp;🎉🎉 Moved to Shanghai.
 - *2018.06*: &nbsp;🎉🎉 Offered PhD positions by several top-50 universities.
 
-![image](https://github.com/user-attachments/assets/ae754dff-05b0-42ef-b994-ad1e5914c275)
-
-
+# 🐦 Research Interest
+ 
 
 
 
@@ -75,7 +74,7 @@ My current research interests include the development and evaluation of anti-hyd
 
 
 
-# 📖 Educations
+# 📖🎓 Educations
 
 
 - *2022.02~Current*, Doctor of Structural Engineering, Department of Structural Engineering of Norwegain University of 
