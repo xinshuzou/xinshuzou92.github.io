@@ -32,7 +32,6 @@ My current research interests include the development and evaluation of anti-hyd
 - *2018.06*: &nbsp;🎉🎉 Offered PhD positions by several top-50 universities.
 
 # 🐦 Research Experiences
- 
 - Surface Sciences, including Low Adhesion Surfaces for Water, Ice, and Hydrate;
 - Ceramics, such as High Strength MAX Ceramics;
 - Two Dimensional Materials, such as MXene for HER;
