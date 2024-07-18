@@ -22,7 +22,7 @@ I graduated with a Bachelor degree in Material Science and Engineering from Nanj
 
 I am proficient in the operation of equipment utilized in the characterization of structures and properties in my research, including STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, FIB, and the analysis of TEM, STEM, and SEM images of nanomaterials. I am skilled in integrating the understanding of nanomaterials' properties with their nanostructure at the atomic level.
 
-My current research interests include the development and evaluation of anti-hydrate and anti-icing surfaces with both deposition-suppressing and super-low adhesion properties. I have published more than 16 co-authored papers in international journals.
+My current research interests include the development and evaluation of anti-hydrate and anti-icing surfaces with both deposition-suppressing and super-low adhesion properties. I've co-authored more than 16 papers in international journals.
 
 
 # 🔥 News
@@ -94,10 +94,10 @@ My current research interests include the development and evaluation of anti-hyd
 - Nov 2023 The Norwegan NanoSymposium 2023, Norwegain University of Science and Technoloy,Trondheim.
 - May 2022 Nodic Nanolab Network seminar in Sweeden, Chalmers University of Technology, Gothenburg.
 - *Nov 2020*, Seminar in Singapore, National University of Singapore (online).
-- *Oct 2019*, Seminar at Harbin Institute of Technology, Shenzhen, China.
-- *Dec 2018*, Seminar at China Academy of Engineering Physics, Mianyang, China.
-- *Dec 2017*, The 4th Academic Conferences in China Academy of Engineering Physics, Mianyang, China.
-- *Oct 2017*, The 3th international workshop on laser and Ion Beams Interactions with Materials, Chengdu, China.
+- *Oct 2019*, Seminar at Harbin Institute of Technology, Shenzhen.
+- *Dec 2018*, Seminar at China Academy of Engineering Physics, Mianyang.
+- *Dec 2017*, The 4th Academic Conferences in China Academy of Engineering Physics, Mianyang.
+- *Oct 2017*, The 3th international workshop on laser and Ion Beams Interactions with Materials, Chengdu.
 
 # 💻 Others  
 
