@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, welcome to my personal academic page!
-# Hi, welcome to my personal academic page! Here is my short Biography
+# Biography
 
 I graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015; then took a joint Master program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China in the next 3 years. During 2018–2022, I worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, I moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology.
 
