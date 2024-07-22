@@ -26,7 +26,7 @@ My research passion lies in the fascinating world of materials science, with a s
 
 - Surface Sciences, including Low Adhesion Surfaces for Water, Ice, and Hydrate;
 - High Strength Ceramics, such as  MAX Ceramics;
-- Two Dimensional Materialsby Selective Etching Methods, such as MXene for HER;
+- Two Dimensional Materials by Selective Etching Methods, such as MXene for HER;
 - Optic Silica Coating by Sol-Gel Method;
 - 3D Printed Materials including Metal, Polymer and Ceramics;
 
