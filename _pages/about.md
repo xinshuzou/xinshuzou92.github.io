@@ -17,14 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, welcome to my personal academic page!
+Hi, welcome to my personal academic page! 
 # Biography
+I am a researcher with a strong background in Material Science and Engineering. My academic journey began with a Bachelor’s degree from Nanjing University of Aeronautics and Astronautics in 2015. I then pursued a joint Master’s program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China, completing it in 2018.From 2018 to 2022, I was a PhD candidate at the prestigious School of Material Science and Engineering at Shanghai Jiao Tong University. Currently, I am advancing my research as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology.
 
-I graduated with a Bachelor degree in Material Science and Engineering from Nanjing University of Aeronautics and Astronautics in 2015; then took a joint Master program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China in the next 3 years. During 2018–2022, I worked as a PhD candidate in the School of Material Science and Engineering at Shanghai Jiao Tong University. After that, I moved to work as a PhD researcher in the Department of Structural Engineering at the Norwegian University of Science and Technology.
+# 🐦 Research and Expertise
+My research passion lies in the fascinating world of materials science, with a specific focus on:
 
-I am proficient in the operation of equipment utilized in the characterization of structures and properties in my research, including STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, FIB, and the analysis of TEM, STEM, and SEM images of nanomaterials. I am skilled in integrating the understanding of nanomaterials' properties with their nanostructure at the atomic level.
+- Surface Sciences, including Low Adhesion Surfaces for Water, Ice, and Hydrate;
+- High Strength Ceramics, such as  MAX Ceramics;
+- Two Dimensional Materialsby Selective Etching Methods, such as MXene for HER;
+- Optic Silica Coating by Sol-Gel Method;
+- 3D Printed Materials including Metal, Polymer and Ceramics;
 
-My current research interests include the development and evaluation of anti-hydrate and anti-icing surfaces with both deposition-suppressing and super-low adhesion properties. I've co-authored more than 16 papers in international journals.
+I am adept at operating advanced characterization equipment such as STEM, HRTEM, SEM, XRD, FT-IR, Raman, AFM, UV-vis-NIR, and FIB. My expertise extends to the detailed analysis of TEM, STEM, and SEM images of nanomaterials, allowing me to integrate an understanding of their properties with their nanostructures at the atomic level.
+Currently, my research is focused on developing and evaluating anti-hydrate and anti-icing surfaces, aiming to create materials with both deposition-suppressing and super-low adhesion properties. 
+
+I've co-authored more than 18 papers in international journals. On this page, you will find detailed information about my research projects, publications, and upcoming events or presentations. Whether you are a fellow researcher, student, or simply someone with an interest in materials science, I hope you find the content here engaging and informative.
+
+Please feel free to reach out if you have any questions or would like to discuss potential collaborations. 
 
 
 # 🔥 News
