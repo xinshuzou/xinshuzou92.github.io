@@ -106,7 +106,7 @@ Please feel free to reach out if you have any questions or would like to discuss
 
 # 💻 Others  
 
-- *2018-current*, Invited as a reviewer or co-reviewer of international journal such as Chemical Engineering Journal,Science Advance, Nature Communication, Nature Review Materials,Colloid and Surfaces A, ACS AMI, Langmuir,Polymer...
+- *2018-current*, Invited as a reviewer or co-reviewer of international journal such as Chemical Engineering Journal,Science Advance, Nature Communication, Nature Review Materials,Colloid and Surfaces A, ACS AMI, Applied Surface Science, Langmuir,Polymer...
 - *2018.06-2018.08* Guangdong OPPO Mobile Communication Co. 2018 Dreamer Internship (Full-time).
 - *2016.07-2018.06*, As a secretary of the student union; As a monitor of our joint laboratory.   
 - *2016.Oct*, As one of the staffs of the 4th International Symposium on Laser Interaction with Matter.
