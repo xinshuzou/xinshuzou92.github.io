@@ -44,14 +44,6 @@ Please feel free to reach out if you have any questions or would like to discuss
 - *2018.09*: &nbsp;🎉🎉 Moved to Shanghai.
 - *2018.06*: &nbsp;🎉🎉 Offered PhD positions by several top-50 universities.
 
-# 🐦 Research Experiences
-- Surface Sciences, including Low Adhesion Surfaces for Water, Ice, and Hydrate;
-- Ceramics, such as High Strength MAX Ceramics;
-- Two Dimensional Materials, such as MXene for HER;
-- Sol-Gel Methods for Preparing Coatings;
-- Silica Antireflective Coatings;
-- 3D Printed Materials including Metal, Polymer and Ceramics;
-
 # 📝 Publications and Patents
 
 - Highly reversible and stable sulfur-containing cathodes for magnesium batteries with two-plateau redox reactions enabled by kinetically favored Mg─S decomposition <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials 2024
