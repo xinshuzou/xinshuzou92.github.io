@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, welcome to my personal academic page! 
 # Biography
-I am a researcher with a strong background in Material Science and Engineering. My academic journey began with a Bachelor’s degree from Nanjing University of Aeronautics and Astronautics in 2015. I then pursued a joint Master’s program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China, completing it in 2018.From 2018 to 2022, I was a PhD candidate at the prestigious School of Material Science and Engineering at Shanghai Jiao Tong University. Currently, I am advancing my research as a PhD in the Department of Structural Engineering at the Norwegian University of Science and Technology.
+I am a researcher with a strong background in Material Science and Engineering. My academic journey began with a Bachelor’s degree from Nanjing University of Aeronautics and Astronautics in 2015. I then pursued a joint Master’s program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China, completing it in 2018.From 2018 to 2022, I was a PhD candidate at the School of Material Science and Engineering at Shanghai Jiao Tong University. Currently, I am advancing my research in the Department of Structural Engineering at the Norwegian University of Science and Technology.
 
 # 🐦 Research and Expertise
 My research passion lies in the fascinating world of materials science, with a specific focus on:
