@@ -24,9 +24,10 @@ I am a researcher with a strong background in Material Science and Engineering. 
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 ...
-- *2022.02*: &nbsp;🎉🎉 Moved to Trondheim.
-- *2018.09*: &nbsp;🎉🎉 Moved to Shanghai.
-- *2018.06*: &nbsp;🎉🎉 Offered PhD positions by several top-50 universities.
+- *2022.02*: &nbsp;🎉🎉    Moved to Trondheim.
+- *2018.09*: &nbsp;🎉🎉    Moved to Shanghai.
+- *2018.06-09*: &nbsp;🎉🎉 Worked in OPPO.
+- *2018.06*: &nbsp;🎉🎉    Offered PhD positions by several top-50 universities.
 
 # 🐦 Research and Expertise
 My research passion lies in the fascinating world of materials science, with a specific focus on:
