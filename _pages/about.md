@@ -74,7 +74,7 @@ I've co-authored more than 18 papers in international journals. On this page, yo
  - *2017* 2nd-class of Scholarship; Excellent Post-Graduate Student; Excellent Student Union leader; Best Oral Report of the 
           4th Academic Conferences;
 - *2016*  3st-class of Scholarship; 3st-class of Essay Writing Competition
-- *2014*  Excellent Individual in Summer Camp of Huazhong University of Science and Technology; Excellent Individual in Summer    School of National University of Defense Technology; 
+- *2014*  Excellent Participate in Summer Camp of Huazhong University of Science and Technology; Excellent Participate in Summer    School of National University of Defense Technology; 
 - *2013*  University Excellent Student Union Leader;
 - *2012*  University Excellent Student;                                                                        
 - *2011*  3rd-class of Excellent Student Scholarship;
