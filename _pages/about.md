@@ -1,5 +1,4 @@
 ---
-permalink: /
 permalink: /about/
 title: ""
 excerpt: ""
