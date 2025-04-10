@@ -44,9 +44,8 @@ Currently, my research is focused on developing and evaluating anti-hydrate and 
 I've co-authored more than 18 papers in international journals. On this page, you will find detailed information about my research projects, publications, and upcoming events or presentations. Whether you are a fellow researcher, student, or simply someone with an interest in materials science, I hope you find the content here engaging and informative.
 
 # 📝 Publications and Patents
-
-- Highly reversible and stable sulfur-containing cathodes for magnesium batteries with two-plateau redox reactions enabled by kinetically favored Mg─S decomposition <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials 2024
 - Hypothesis: A sustainable dynamic anti-icing surface with the potential for rapid rechargeability <a href='https://www.sciencedirect.com/science/article/pii/S0021979724025669'> Journal of Colloid and Interface Science 2024
+- Highly reversible and stable sulfur-containing cathodes for magnesium batteries with two-plateau redox reactions enabled by kinetically favored Mg─S decomposition <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202401154'> Advanced Energy Materials 2024
 - Designing multifunctional silica coatings for enhanced broadband antireflection and microfiber contamination sensing <a href='https://www.sciencedirect.com/science/article/pii/S1385894723039657'> Chemical Engineering Journal 2023 
 - Li+ assisted fast and stable Mg2+ reversible storage in cobalt sulfide cathodes for high performance magnesium/lithium hybrid-ion batteries <a href='https://www.sciencedirect.com/science/article/pii/S2405829722000472'> Energy Storage Materials 2022
 - High strength and plasticity in Cr-Al-C composite <a href='https://www.sciencedirect.com/science/article/pii/S0921509322000922'> Materials Science and Engineering: A 2021
@@ -112,3 +111,4 @@ I've co-authored more than 18 papers in international journals. On this page, yo
 - *2016.Oct*, As one of the staffs of the 4th International Symposium on Laser Interaction with Matter.
 - *2013.Oct*, As a group leader in the “Fly Your Idea” competition of Airbus company.
 - *2011-2015*, As a member of student union;
+The most perfect slavery is to make the slaves think they are the masters
