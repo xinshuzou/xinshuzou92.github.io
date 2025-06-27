@@ -23,7 +23,7 @@ Hi, welcome to my personal academic page!
 I am a researcher with a strong background in Material Science and Engineering. My academic journey began with a Bachelor’s degree from Nanjing University of Aeronautics and Astronautics in 2015. I then pursued a joint Master’s program in Optical Engineering from the China Academy of Engineering Physics and the University of Science and Technology of China, completing it in 2018.From 2018 to 2022, I was a PhD candidate at the School of Material Science and Engineering at Shanghai Jiao Tong University. Currently, I am advancing my research in the Department of Structural Engineering at the Norwegian University of Science and Technology.
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 ...
+- *2025.09*: &nbsp;🎉🎉 ...Graduation.
 - *2022.02*: &nbsp;🎉🎉    Moved to Trondheim.
 - *2018.09*: &nbsp;🎉🎉    Moved to Shanghai.
 - *2018.06-09*: &nbsp;🎉🎉 Worked in OPPO.
